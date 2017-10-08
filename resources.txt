@@ -1,6 +1,0 @@
-resources
-
-
-https://github.com/git/git-scm.com //Git's repository on Github
-https://bitbucket.org  //code collaboration, versioning similar to Git
-https://git-scm.com/downloads/logos //some Git logos

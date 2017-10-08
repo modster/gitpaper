@@ -1,0 +1,7 @@
+# stuff to ignore #
+###################
+*.odt
+*.docx
+*.sublime-workspace
+*.sublime-project
+Git Scratchpad.docx
