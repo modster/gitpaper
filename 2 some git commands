@@ -1,0 +1,37 @@
+2 some git commands
+
+https://git-scm.com/docs/everyday
+
+[Individual Developer (Standalone)] commands are essential for anybody who makes a commit, even for somebody who works alone.
+
+If you work with other people, you will need commands listed in the [Individual Developer (Participant)] section as well.
+
+People who play the [Integrator] role need to learn some more commands in addition to the above.
+
+[Repository Administration] commands are for system administrators who are responsible for the care and feeding of Git repositories.
+
+
+Individual Developer (Standalone)[[Individual Developer (Standalone)]]
+A standalone individual developer does not exchange patches with other people, and works alone in a single repository, using the following commands.
+
+git-init[1] to create a new repository.
+
+git-show-branch[1] to see where you are.
+
+git-log[1] to see what happened.
+
+git-checkout[1] and git-branch[1] to switch branches.
+
+git-add[1] to manage the index file.
+
+git-diff[1] and git-status[1] to see what you are in the middle of doing.
+
+git-commit[1] to advance the current branch.
+
+git-reset[1] and git-checkout[1] (with pathname parameters) to undo changes.
+
+git-merge[1] to merge between local branches.
+
+git-rebase[1] to maintain topic branches.
+
+git-tag[1] to mark known point.

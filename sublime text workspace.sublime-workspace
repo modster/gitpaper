@@ -1,0 +1,539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/git license",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/2 some git commands",
+			"settings":
+			{
+				"buffer_size": 1290,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "2 some git commands"
+			}
+		},
+		{
+			"contents": "resources\n\n\nhttps://github.com/git/git-scm.com //Git's repository on Github\nhttps://bitbucket.org  //code collaboration, versioning similar to Git\n",
+			"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/resources",
+			"file_size": 86,
+			"file_write_time": 131518938169517500,
+			"settings":
+			{
+				"buffer_size": 147,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "resources"
+			}
+		},
+		{
+			"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/logos.docx",
+			"settings":
+			{
+				"buffer_size": 42,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "logos"
+			}
+		},
+		{
+			"contents": "A Short History of Git\n\n1[https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git]\n\nA Short History of Git\nAs with many great things in life, Git began with a bit of creative destruction and fiery controversy.\n\nThe Linux kernel is an open source software project of fairly large scope. For most of the lifetime of the Linux kernel maintenance (1991–2002), changes to the software were passed around as patches and archived files. In 2002, the Linux kernel project began using a proprietary DVCS called BitKeeper.\n\nIn 2005, the relationship between the community that developed the Linux kernel and the commercial company that developed BitKeeper broke down, and the tool’s free-of-charge status was revoked. This prompted the Linux development community (and in particular Linus Torvalds, the creator of Linux) to develop their own tool based on some of the lessons they learned while using BitKeeper. Some of the goals of the new system were as follows:\n\nSpeed\n\nSimple design\n\nStrong support for non-linear development (thousands of parallel branches)\n\nFully distributed\n\nAble to handle large projects like the Linux kernel efficiently (speed and data size)\n\nSince its birth in 2005, Git has evolved and matured to be easy to use and yet retain these initial qualities. It’s incredibly fast, it’s very efficient with large projects, and it has an incredible branching system for non-linear development (See Git Branching).\n\n",
+			"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/1 A Short History of Git",
+			"file_size": 1467,
+			"file_write_time": 131518931056424666,
+			"settings":
+			{
+				"buffer_size": 1439,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "A Short History of Git"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"DataConverter: to CSV"
+			],
+			[
+				"data",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: csv",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"csv",
+				"Package Control: Discover Packages"
+			],
+			[
+				"p",
+				"Pandoc"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/git license",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 3/ASSIGNMENT 3 CHAPTER 7 EXERCISE 20_work",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 3/ASSIGNMENT 3 CHAPTER 6 EXERCISE",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 3/ASSIGNMENT 3 CHAPTER 8 EXERCISE 2_work",
+		"/C/Users/unmod/Dropbox/AU/COMP200/tcpip protocol heirarchy",
+		"/C/Users/unmod/Dropbox/AU/COMP200/TCP-IP protocol hierarchy.JPG",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 3/ASSIGNMENT 3 CHAPTER 8 EXERCISE 2",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 3/ASSIGNMENT 3 CHAPTER 7 EXERCISE_work",
+		"/C/Users/unmod/Dropbox/Service Decision.csv",
+		"/C/Users/unmod/Downloads/Wordpress Authentication_dependency_info.dat",
+		"/C/Users/unmod/Dropbox/AU/COMP200/Tim Berners-Lee",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 3/UNIT THREE SECTION 3 CHALLENGE WORK 2 work",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 3/UNIT THREE SECTION 3 CHALLENGE WORK 2",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 3/UNIT THREE SECTION 2 EXERCISE 21",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 3/ASSIGNMENT 3 CHAPTER 6 EXERCISE 21 work",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 3/UNIT THREE SECTION 1 EXERCISE 1",
+		"/C/Users/unmod/Downloads/Arpanet_logical_map,_march_1977.png",
+		"/C/Users/unmod/mingw/GoodDocsF-Debugged.cpp",
+		"/C/Users/unmod/mingw/GoodDocsF.cpp",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 2/Assignment 2 Chapter 5 Excersise 21",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 2/UNIT 2 SECTION 1 CHALLENGE WORK 3",
+		"/C/Users/unmod/mingw/go.bat",
+		"/C/Users/unmod/mingw/g++ -o GoodDocsF.exe GoodDocsF.txt",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT 2/Assignment 2 Chapter 4 Excersise 3",
+		"/C/Users/unmod/mingw/hello.cpp",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 2 SECTION 1 CHALLENGE WORK 3",
+		"/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 2/UNIT 2 CHALLENGE WORK 3",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT1/ASSIGNMENT 1 CHAPTER 3 EXCERCISE 9_",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT1/ASSIGNMENT 1 CHAPTER 2 EXCERCISE 21",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT1/ASSIGNMENT 1 CHAPTER 3 EXCERCISE 9",
+		"/C/Users/unmod/Dropbox/AU/COMP200/ASSIGNMENT1/ASSIGNMENT 1 CHAPTER 2 EXCERCISE 21_bkp",
+		"/C/Users/unmod/Dropbox/AU/ADMN233/Scenario.docx",
+		"/C/Users/unmod/Downloads/COMP268/Assignment_1_20SEPT2017.pdf",
+		"/C/Users/unmod/Dropbox/AU/COMP200/assignment 1",
+		"/C/Users/unmod/Dropbox/AU/ADMN233/GREEFF_admn233_assign2_Scratch pad",
+		"/C/Users/unmod/Dropbox/AU/COMP200/GREEFF_assignment 1",
+		"/C/Users/unmod/Downloads/COMP268/Assignment_1_20SEPT2017___SCRATCHPAD.pdf",
+		"/C/Users/unmod/Dropbox/AU/COMP200/COMP200_bubble_sort_v2",
+		"/C/Users/unmod/Dropbox/AU/ADMN233/GREEFF_admn233_assign2.docx",
+		"/C/Users/unmod/Dropbox/AU/COMP200/COMP200_bubble_sort",
+		"/C/Users/unmod/Dropbox/Court Stuff/FOIP/foip notes sept 2017",
+		"/C/Users/unmod/Downloads/COMP200/assignment 1",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/HighlightWords/Default (Windows).sublime-keymap",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/HighlightWords/HighlightWords.sublime-settings",
+		"/C/Users/unmod/Downloads/COMP200/assignment 1 scratch pad",
+		"/C/Users/unmod/Downloads/Shutter Pulse Free Actions and Presets/photoshop hotkeys.txt",
+		"/C/Users/unmod/Downloads/www.roblox.com_9th_Jul_2017.csv",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-2/readme.txt",
+		"/C/Users/unmod/Desktop/Leos Game.Canvas.html",
+		"/C/Users/unmod/Desktop/HTML.poop.HTML",
+		"/C/Users/unmod/Desktop/db.ini",
+		"/C/Users/unmod/Dropbox/keys/D0rit0s.asc",
+		"/C/Users/unmod/Downloads/www.youtube.com_15th_Jul_2017.csv",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/unmod/Downloads/mikegreeffcom - mg.com.csv",
+		"/C/Users/unmod/Downloads/sample.csv",
+		"/C/Users/unmod/OneDrive/OneTab.html",
+		"/D/Google Drive/_Website Projects/Workspace 1.txt",
+		"/D/Google Drive/_Website Projects/Web Properties Mike Greeff.xml",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-3/README 2",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-3/README",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-3/index.html",
+		"/C/Program Files/PuTTY/README.txt",
+		"/C/Program Files/Bitcoin/readme.txt",
+		"/C/Program Files/Bitcoin/COPYING.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.185/howto.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.078/howto.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.352/change_log.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.982/readme.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.840/readme.txt",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/C/Users/unmod/AppData/Roaming/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.852/Read Me.txt",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-2/README.md",
+		"/C/Users/unmod/AppData/Local/Temp/Ditto/DragFiles/text_6.txt",
+		"/C/Users/unmod/AppData/Local/Temp/fz3temp-2/robots.txt",
+		"/C/Users/unmod/Desktop/config.php",
+		"/D/Downloads/Gertrudis Graphics GMX-PhotoPainter 2.8.0.1154 Final + Activator/Read Me.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.920/README.md",
+		"/C/Users/unmod/Downloads/xDiep.io-master/xDiep.io-master/README.md",
+		"/C/Users/unmod/AppData/Local/Temp/Ditto/DragFiles/text_5.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.404/read me.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.367/Read Me.txt",
+		"/C/Users/unmod/Downloads/Shutter Pulse Free Actions and Presets/installation.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.821/installation.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.590/RNDD.nfo",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.399/URET.nfo",
+		"/D/Downloads/Adobe Premiere Pro CC 2015 v9.0 + Crack/Roblox music codes",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.800/installation.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.446/FFF.NFO",
+		"/C/Users/unmod/Desktop/Workspace Macro Pro - Automation Edition 6.0.4/FFF.NFO",
+		"/C/Users/unmod/Desktop/Workspace Macro Pro - Automation Edition 6.0.4/New folder/FFF.NFO",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.567/README.md",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.586/URET.nfo",
+		"/D/Downloads/Macro.Expert.Enterprise.v2.9.9.6.Incl.Keymaker-CORE/Read Me.txt",
+		"/D/Downloads/[NewTorrents.info]_Macro.Express.v3.5.5.1.Incl.Keymaker-EMBRACE/embrace.nfo",
+		"/D/Downloads/Macro.Expert.Enterprise.v2.9.9.6.Incl.Keymaker-CORE/CORE.NFO",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.822/Readme nginx-win version.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.575/Readme.txt",
+		"/C/Users/unmod/Desktop/Nginex/Readme nginx-win version.txt",
+		"/C/Program Files (x86)/NiftyWindows/readme.txt",
+		"/C/Program Files (x86)/NiftyWindows/changes.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.712/readme.txt",
+		"/D/Downloads/Adobe Premiere Pro CC 2015 v9.0 + Crack/ReadMe.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.565/README.md",
+		"/D/Downloads/Autodesk Factory Design Utilities 2018 Final + Crack/Read Me.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.824/README",
+		"/C/Users/unmod/Documents/POV-Ray/v3.7/changes.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.096/README.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.837/README.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.226/README.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.686/README.md",
+		"/D/Downloads/Adobe Animate CC 201716.0.1 (x64) + Crack [SadeemPC]/Instructions !!!.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.863/CMakeLists.txt",
+		"/C/Users/unmod/AppData/Local/Temp/Rar$DIa0.461/blog_channels.txt",
+		"/D/Googoo Dwive/IDEA an app that reminds you of upcoming subscriptions.txt",
+		"/C/Users/unmod/Desktop/duplicate.txt",
+		"/D/Googoo Dwive/Programming Projects/Guardian Project Apps.txt",
+		"/D/Downloads/TechSmith Camtasia Studio 8.6.0 Build 2079 + Key [SadeemPC]/Install Notes.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"c2\"",
+			" class=\"c0\"",
+			"**",
+			"***",
+			"</span></p>",
+			"<p class=\"c1\"><span class=\"c0\">"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"</span>",
+			"<span>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/git license",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/2 some git commands",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1290,
+								1290
+							]
+						],
+						"settings":
+						{
+							"auto_name": "2 some git commands",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/resources",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "resources",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/logos.docx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"auto_name": "logos",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/unmod/Dropbox/AU/COMP200/DISCUSSION TOPICS/UNIT 4/GIT/1 A Short History of Git",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								527,
+								527
+							]
+						],
+						"settings":
+						{
+							"auto_name": "A Short History of Git",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime text workspace.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
